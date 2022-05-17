@@ -26,3 +26,13 @@ Kullandığım image view görüntüsü:(internetten alınmıştır.)
 
 
 ![images-2](https://user-images.githubusercontent.com/96236352/168780510-95edc670-e81f-464f-af37-e74494e9c42b.jpeg)
+
+
+
+#storyboard görüntüsü:
+
+
+
+
+<img width="732" alt="Ekran Resmi 2022-05-17 12 41 09" src="https://user-images.githubusercontent.com/96236352/168781428-a4aaca8e-b21a-494e-8ee2-07dc6dcd33d9.png">
+
